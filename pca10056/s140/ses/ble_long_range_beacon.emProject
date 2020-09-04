@@ -103,12 +103,12 @@
     <folder Name="Application">
       <file file_name="../config/sdk_config.h" />
       <file file_name="../../../pa_lna.c" />
+      <file file_name="../../../main_v2.c">
+        <configuration Name="Release" build_exclude_from_build="No" />
+      </file>
       <file file_name="../../../main_v1.c">
         <configuration Name="Release" build_exclude_from_build="Yes" />
         <configuration Name="Debug" build_exclude_from_build="Yes" />
-      </file>
-      <file file_name="../../../main_v2.c">
-        <configuration Name="Release" build_exclude_from_build="No" />
       </file>
     </folder>
     <folder Name="nRF_Segger_RTT">
