@@ -95,16 +95,12 @@ Output/ble_long_range_beacon\ Debug/Obj/main_v1.o: \
  ../../../../../../modules/nrfx/hal/nrf_timer.h \
  ../../../../../../components/libraries/util/ble_gap.h \
  ../../../../../../components/libraries/log/nrf_log.h \
- ../../../../../../components/libraries/strerror/nrf_strerror.h \
  ../../../../../../components/libraries/log/src/nrf_log_internal.h \
  ../../../../../../components/libraries/util/nrf_error.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/log/nrf_log_ctrl.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
- ../../../../../../components/libraries/memobj/nrf_memobj.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdlib.h \
- ../../../../../../components/libraries/balloc/nrf_balloc.h \
  ../../../../../../components/libraries/log/nrf_log_default_backends.h \
  C:\nRF52840\nRF5SDK160098a08e2\projects\ble_peripheral\ble_long_range_beacon\pa_lna.h \
  ../../../../../../integration/nrfx/legacy/nrf_drv_gpiote.h \
